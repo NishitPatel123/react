@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+
 export const Home = () => {
   var data = [
     {
@@ -28,7 +29,6 @@ export const Home = () => {
             )
           })
         }
-
     </div>
   )
 }
